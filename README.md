@@ -13,7 +13,7 @@ bibliotek/
 <br>├── math_tools.py        # Moduł 2
 <br>├── text_processing.py   # Moduł 3
 <br>└── tests/
-<br>    └── test_all.py      # Wszystkie testy w jednym pliku
+<br>       └── test_all.py      # Wszystkie testy w jednym pliku
 
 Prosta biblioteka w Pythonie z funkcjami do:
 - Przetwarzania danych (walidacja email, formatowanie dat)
