@@ -21,8 +21,8 @@ Prosta biblioteka w Pythonie z funkcjami do:
 - Przetwarzania tekstu (analiza, oczyszczanie)
 
 ## Użycie
-from data_utils import validate_email
-from math_tools import Statistics
-from text_processing import TextAnalyzer
+<br>from data_utils import validate_email
+<br>from math_tools import Statistics
+<br>from text_processing import TextAnalyzer
 
-print(validate_email("test@example.com"))
+<br>print(validate_email("test@example.com"))
