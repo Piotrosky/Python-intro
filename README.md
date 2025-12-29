@@ -25,4 +25,4 @@ Prosta biblioteka w Pythonie z funkcjami do:
 <br>from math_tools import Statistics
 <br>from text_processing import TextAnalyzer
 
-<br>print(validate_email("test@example.com"))
+print(validate_email("test@example.com"))
