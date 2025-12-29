@@ -5,15 +5,15 @@ Task_1
 
 Task_2
 Coverage został użyty, ale niestety nie pokazuję testów, ponieważ Jupyter ma z tym problemy bez dodatkowej konfiguracji.
-Można by to prosto rozwiązać po prostu dzieląc ten plik na 2 .py i odpalić coverage z basha
+<br>Można by to prosto rozwiązać po prostu dzieląc ten plik na 2 .py i odpalić coverage z basha
 
 Task_3
 bibliotek/
-├── data_utils.py        # Moduł 1
-├── math_tools.py        # Moduł 2
-├── text_processing.py   # Moduł 3
-└── tests/
-    └── test_all.py      # Wszystkie testy w jednym pliku
+<br>├── data_utils.py        # Moduł 1
+<br>├── math_tools.py        # Moduł 2
+<br>├── text_processing.py   # Moduł 3
+<br>└── tests/
+<br>    └── test_all.py      # Wszystkie testy w jednym pliku
 
 Prosta biblioteka w Pythonie z funkcjami do:
 - Przetwarzania danych (walidacja email, formatowanie dat)
