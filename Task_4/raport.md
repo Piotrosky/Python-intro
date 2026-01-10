@@ -36,7 +36,7 @@ A2: 0.7015<br>
 A3: 0.4965<br>
 A4: 0.4758<br>
 <br>
-Ranking TOPSIS:<br>
+Ranking TOPSIS:
 1. A1<br>
 2. A4<br>
 3. A3<br>
