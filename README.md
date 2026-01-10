@@ -26,3 +26,5 @@ Prosta biblioteka w Pythonie z funkcjami do:
 <br>from text_processing import TextAnalyzer
 
 print(validate_email("test@example.com"))
+
+Task_4
